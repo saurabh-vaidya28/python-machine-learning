@@ -1,2 +1,3 @@
 # python-machine-learning
-This repository contains different types of machine learning models.
+It contains different types of machine learning models like
+linear regression, logistic regression, SVM, clustering techniques, perceptron learning, etc.
